@@ -1,0 +1,16 @@
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.exe
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.deps.json
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.runtimeconfig.json
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.runtimeconfig.dev.json
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.dll
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ref\ChetNechetArray.dll
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\bin\Debug\net5.0\ChetNechetArray.pdb
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.csprojAssemblyReference.cache
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.AssemblyInfoInputs.cache
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.AssemblyInfo.cs
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.dll
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ref\ChetNechetArray.dll
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.pdb
+D:\VisualStudio\Проекты\TestTasks\ChetNechetArray\ChetNechetArray\obj\Debug\net5.0\ChetNechetArray.genruntimeconfig.cache
