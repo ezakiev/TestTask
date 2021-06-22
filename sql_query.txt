@@ -1,0 +1,4 @@
+select b.title, count(ba.author_id) as num
+from book b
+join book_author ba on b.id = ba.book_id
+group by b.title having count(ba.author_id) >= 3;
